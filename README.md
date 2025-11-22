@@ -42,13 +42,13 @@ brew install ffmpeg
 
 ```bash
 # Check levels of a single file
-./audio_normalizer.pl /path/to/song.mp3
+./audio-normalizer.pl /path/to/song.mp3
 
 # Normalize a single file
-./audio_normalizer.pl /path/to/song.mp3
+./audio-normalizer.pl /path/to/song.mp3
 
 # Process an entire directory
-./audio_normalizer.pl /path/to/music/folder
+./audio-normalizer.pl /path/to/music/folder
 ```
 
 The script creates a `normalized` subdirectory in the same location as the script and saves processed files there.
