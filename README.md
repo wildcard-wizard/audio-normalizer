@@ -1,4 +1,3 @@
-```markdown
 # 🎵 Audio Normalizer
 
 A simple Perl script that normalizes audio levels in MP3 files using FFmpeg's loudnorm filter. Perfect for making a collection of MP3s play at consistent volume levels.
@@ -57,4 +56,3 @@ The script creates a `normalized` subdirectory in the same location as the scrip
 ## 📄 License
 
 MIT License - See LICENSE file for details.
-```
