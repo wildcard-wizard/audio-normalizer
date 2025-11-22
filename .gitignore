@@ -1,0 +1,45 @@
+# Normalized audio output
+normalized/
+
+# Vim temporary files
+*~
+*.swp
+*.swo
+*.swn
+.*.sw?
+*.un~
+Session.vim
+.netrwhist
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Perl temporary files
+*.bak
+*.tmp
+*.old
+blib/
+pm_to_blib
+MYMETA.*
+Makefile
+Makefile.old
+
+# Editor backup files
+*~
+\#*\#
+.\#*
